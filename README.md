@@ -1,7 +1,11 @@
 SysCONNECT
 ==========
+
 ## Current Version
 v. 3.76a
+
+## Disclaimer
+This application was featured on House of Cards (season two). Pls use with caution.
 
 ## How to Run Tracking Daemon
 
